@@ -23,9 +23,4 @@ This project is an HTML and CSS template for an Ecommerce website. It includes a
 - Feature section highlighting key aspects of the website.
 - Promotional banner with a call-to-action button.
 
-## Getting Started
 
-To get started with this project, simply clone the repository to your local machine:
-
-```bash
-git clone https://github.com/akshgarg10/ecommerce-website.git
